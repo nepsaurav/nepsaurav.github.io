@@ -4,11 +4,10 @@ You can use the [editor on GitHub](https://github.com/nepsaurav/nepsaurav.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Some code goes here
+### Sample Code
 
 
 ```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -31,5 +30,5 @@ This page is using Jekyll for content management. I would have used [Bootstrap](
 
 ### Contact Me
 
-## [LinkedIn](https://www.linkedin.com/in/nepsaurav/)
-## [Email](sgaut01@plattsburgh.edu)
+[LinkedIn](https://www.linkedin.com/in/nepsaurav/)
+[Email](sgaut01@plattsburgh.edu)
