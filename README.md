@@ -27,4 +27,5 @@ This page is using Jekyll for content management. I would have used [Bootstrap](
 ### Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/nepsaurav/)
+
 [Email](sgaut01@plattsburgh.edu)
