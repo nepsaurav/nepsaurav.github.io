@@ -6,7 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Some code goes here
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -26,8 +25,6 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Jekyll Themes
 
 This page is using Jekyll for content management. I would have used [Bootstrap](https://getbootstrap.com), but the Jekyll intergrates very well with Github and requires no additional shenanigans. **WOOT WOOT!**
@@ -35,4 +32,4 @@ This page is using Jekyll for content management. I would have used [Bootstrap](
 ### Contact Me
 
 ## [LinkedIn](https://www.linkedin.com/in/nepsaurav/)
-## [Email](mailto: sauravrajgautam@gmail.com)
+## [Email](sgaut01@plattsburgh.edu)
