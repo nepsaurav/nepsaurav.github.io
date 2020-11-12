@@ -1,12 +1,10 @@
-## Welcome to my website
+## Saurav G.
 
 ### About Me
-
-Welcome to my new site. I recently forwarded this site (my GitHub pages) to a custom google domain. It should now be accessible to everyone and should hopefully make it easier to remember. I will be setting up this site over the coming weeks, so stay tuned for updates!
-
-
+Firstly, a warm welcome to my site. This domain is used to test out a variety of things. Trying my best to keep it updated with some of the latest projects that I am working on. The pandemic put a halt on some stuff, but trying to get them back up. The theme of the site will also be periodically updated. 
 
 ### Contact Me
 
 [LinkedIn](https://www.linkedin.com/in/nepsaurav/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [Email](mailto:bloggerguy.saurav158@gmai.com)
